@@ -6,3 +6,5 @@ Please report bugs via GitHub and ask general questions through <a href="https:/
 
 # License
 Script is MIT licensed and free and will always be kept this way.
+
+Created by <a href="https://twitter.com/ninadramade" target="blank">@ninadramade</a>.
