@@ -1,0 +1,25 @@
+{
+  "name": "ninadramade/easyselect",
+  "description": "Lightweight, easy to configure and minimalist select dropdown plugin for jQuery.",
+  "author": [
+    {
+      "name": "Ninad Ramade",
+      "email": "ninad.ramade@gmail.com",
+      "web": "https://github.com/ninad-ramade"
+    }
+  ],
+  "keywords": [
+    "select",
+    "multiselect",
+    "dropdown",
+    "form",
+    "input",
+    "ui"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "homepage": "https://github.com/ninad-ramade/easySelect",
+  "require": {
+  }
+}
